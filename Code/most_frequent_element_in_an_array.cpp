@@ -1,5 +1,6 @@
 // https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1
 // Difficulty: Easy
+// Tags: Hashing
 
 class Solution {
   public:

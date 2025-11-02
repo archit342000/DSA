@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/reverse-integer/description/
 // Difficulty: Easy
+// Tags: Mathematical
 
 class Solution {
 public:

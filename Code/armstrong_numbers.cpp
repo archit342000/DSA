@@ -1,5 +1,6 @@
 // https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1
 // Difficulty: Easy
+// Tags: Mathematical
 
 // User function Template for C++
 class Solution {
