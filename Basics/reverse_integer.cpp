@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/reverse-integer/description/
-// Difficulty Tag: Easy
+// Difficulty: Easy
 
 class Solution {
 public:
