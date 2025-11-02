@@ -6,7 +6,7 @@ class Solution {
     int mostFreqEle(vector<int>& arr) {
         // code here
         unordered_map<int, int> freq;
-        int maxFreq=1, maxVal=freq[0];
+        int maxFreq=1, maxVal=arr[0];
         
         for(int x: arr){
             freq[x]++;
