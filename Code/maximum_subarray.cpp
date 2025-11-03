@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/maximum-subarray/description/
 // Difficulty: Easy
-// Tags: Array, Algorithms
+// Tags: Arrays, Algorithms
 
 class Solution {
 public:

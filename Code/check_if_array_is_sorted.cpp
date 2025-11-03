@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
 // Difficulty: Easy
-// Tags: Array
+// Tags: Arrays
 
 class Solution {
   public:

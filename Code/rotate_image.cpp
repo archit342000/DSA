@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/rotate-image/description/
 // Difficulty: Medium
-// Tags: Arrays, Matrix, Math
+// Tags: Arrays, Matrices, Math
 
 class Solution {
 public:

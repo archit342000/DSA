@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/next-permutation/description/
 // Difficulty: Medium
-// Tags: Array
+// Tags: Arrays
 
 class Solution {
 public:

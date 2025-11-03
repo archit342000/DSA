@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/set-matrix-zeroes/description/
 // Difficulty: Medium
-// Tags: Arrays, Matrix, Hashing
+// Tags: Arrays, Matrices, Hashing
 
 class Solution {
 public:

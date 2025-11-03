@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/two-sum/description/
 // Difficulty: Easy
-// Tags: Array, Hashing
+// Tags: Arrays, Hashing
 
 class Solution {
 public:

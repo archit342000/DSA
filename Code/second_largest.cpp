@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/second-largest3735/1
 // Difficulty: Easy
-// Tags: Array
+// Tags: Arrays
 
 class Solution {
   public:

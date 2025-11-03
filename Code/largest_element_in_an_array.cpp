@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1
 // Difficulty: Easy
-// Tags: Array
+// Tags: Arrays
 
 class Solution {
   public:

@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
 // Difficulty: Easy
-// Tags: Array, Searching
+// Tags: Arrays, Searching
 
 class Solution {
   public:

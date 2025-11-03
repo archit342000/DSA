@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1
 // Difficulty: Hard
-// Tags: Arrays, Matrix, Binary Search
+// Tags: Arrays, Matrices, Binary Search
 
 class Solution {
   public:

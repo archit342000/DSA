@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/majority-element/description/
 // Difficult: Easy
-// Tags: Array, Counting, Algorithms
+// Tags: Arrays, Counting, Algorithms
 
 class Solution {
 public:

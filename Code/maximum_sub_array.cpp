@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/maximum-sub-array5443/1
 // Difficulty: Medium 
-// Tags: Array, Algorithms, Two Pointers
+// Tags: Arrays, Algorithms, Two Pointers
 
 // User function template for C++
 class Solution {

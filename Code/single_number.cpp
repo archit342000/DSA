@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/single-number/description/
 // Difficulty: Easy
-// Tags: Array, Bit Manipulation
+// Tags: Arrays, Bit Manipulation
 
 class Solution {
 public:

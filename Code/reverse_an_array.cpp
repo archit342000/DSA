@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/reverse-an-array/1
 // Difficulty: Easy
-// Tags: Array, Two Pointers, Recursion
+// Tags: Arrays, Two Pointers, Recursion
 
 class Solution {
   public:

@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/max-consecutive-ones/description/
 // Difficulty: Easy
-// Tags: Array, Counting
+// Tags: Arrays, Counting
 
 class Solution {
 public:

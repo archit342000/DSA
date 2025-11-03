@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 // Difficulty: Easy
-// Tags: Array, Two Pointers
+// Tags: Arrays, Two Pointers
 
 class Solution {
 public:

@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/find-a-peak-element-ii/description/
 // Difficulty: Medium
-// Tags: Arrays, Matrix, Binary Search
+// Tags: Arrays, Matrices, Binary Search
 
 class Solution {
 public:

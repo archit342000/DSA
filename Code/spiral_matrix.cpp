@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/spiral-matrix/description/
 // Difficulty: Easy
-// Tags: Arrays, Matrix
+// Tags: Arrays, Matrices
 
 class Solution {
 public:

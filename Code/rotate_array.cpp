@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/rotate-array/description/
 // Difficulty: Easy
-// Tag: Array, Math
+// Tag: Arrays, Math
 
 class Solution {
 public:

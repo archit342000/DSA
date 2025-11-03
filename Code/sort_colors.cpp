@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/sort-colors/description/
 // Difficulty: Easy
-// Tags: Array
+// Tags: Arrays
 
 class Solution {
 public:

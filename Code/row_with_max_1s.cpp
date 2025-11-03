@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1
 // Difficulty: Easy
-// Tags: Arrays, Matrix, Binary Search
+// Tags: Arrays, Matrices, Binary Search
 
 // User function template for C++
 class Solution {

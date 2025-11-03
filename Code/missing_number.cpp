@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/missing-number/description/
 // Difficulty: Easy
-// Tags: Array, Math, Bit Manipulation
+// Tags: Arrays, Math, Bit Manipulation
 
 class Solution {
 public:
