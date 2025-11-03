@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/fibonacci-number/description/
 // Difficulty: Easy
-// Tags: Mathematical, Recursion
+// Tags: Math, Recursion
 
 class Solution {
 public:

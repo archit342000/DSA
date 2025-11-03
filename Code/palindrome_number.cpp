@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/palindrome-number/description/
 // Difficulty: Easy
-// Tags: Mathematical
+// Tags: Math
 
 class Solution {
 public:

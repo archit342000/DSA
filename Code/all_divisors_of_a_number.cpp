@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1
 // Difficulty: Easy
-// Tags: Mathematical, Factorization
+// Tags: Math, Factorization
 
 class Solution {
   public:

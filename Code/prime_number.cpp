@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/prime-number2314/1
 // Difficulty: Easy
-// Tags: Mathematical
+// Tags: Math
 
 class Solution {
   public:

@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/count-digits-1606889545/1
 // Difficulty: Easy
-// Tags: Mathematical
+// Tags: Math
 
 class Solution {
   public:

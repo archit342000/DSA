@@ -1,6 +1,6 @@
 // https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 // Difficulty: Easy
-// Tags: Mathematical, Recursion
+// Tags: Math, Recursion
 
 class Solution {
   public:

@@ -1,0 +1,16 @@
+// https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1
+// Difficult: Easy
+// Tags: Bit Manipulation
+
+// User function Template for C++
+
+class Solution {
+  public:
+    pair<int, int> get(int a, int b) {
+        // complete the function here
+        a=a^b;
+        b=a^b;
+        a=a^b;
+        return {a,b};
+    }
+};
